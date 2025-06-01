@@ -12,6 +12,10 @@ theme: minima
 plugins:
   - jekyll-feed
 
+header_pages:
+  - categories.markdown
+  - about.markdown
+
 exclude:
   - .sass-cache/
   - .jekyll-cache/
