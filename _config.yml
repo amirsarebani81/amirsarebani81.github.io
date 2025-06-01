@@ -6,6 +6,7 @@ baseurl: ""
 url: ""
 linkedin_username: amirsarebani81
 github_username: amirsarebani81
+permalink: pretty
 
 theme: minima
 plugins:
