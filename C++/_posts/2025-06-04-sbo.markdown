@@ -20,7 +20,7 @@ Below is a snippet from the `libstdc++` implementation of `std::basic_string`, s
 
       union
       {
-    _CharT           _M_local_buf[_S_local_capacity + 1]; // The local buffer used to store small strings
+    _CharT           _M_local_buf[_S_local_capacity + 1];
     size_type        _M_allocated_capacity;
       };
 
